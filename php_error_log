@@ -1,0 +1,241 @@
+[22-Mar-2023 19:36:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "$" in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 24
+[22-Mar-2023 19:36:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "$" in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 24
+[22-Mar-2023 19:36:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "$" in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 24
+[22-Mar-2023 19:50:31 Europe/Berlin] PHP Warning:  Undefined variable $e in F:\xampp\htdocs\apirest-dinamica\models\connection.php on line 30
+[22-Mar-2023 19:50:31 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getMessage() on null in F:\xampp\htdocs\apirest-dinamica\models\connection.php:30
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\index.php(18): Connection::connect()
+#1 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\connection.php on line 30
+[22-Mar-2023 20:01:53 Europe/Berlin] PHP Warning:  include(services/get.php): Failed to open stream: No such file or directory in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:01:53 Europe/Berlin] PHP Warning:  include(): Failed opening 'services/get.php' for inclusion (include_path='F:\xampp\php\PEAR') in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:02:16 Europe/Berlin] PHP Warning:  include(services/get.php): Failed to open stream: No such file or directory in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:02:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'services/get.php' for inclusion (include_path='F:\xampp\php\PEAR') in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:02:31 Europe/Berlin] PHP Warning:  include(services/get.php): Failed to open stream: No such file or directory in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:02:31 Europe/Berlin] PHP Warning:  include(): Failed opening 'services/get.php' for inclusion (include_path='F:\xampp\php\PEAR') in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:03:02 Europe/Berlin] PHP Warning:  include(controller/get.controller.php): Failed to open stream: No such file or directory in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:03:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'controller/get.controller.php' for inclusion (include_path='F:\xampp\php\PEAR') in F:\xampp\htdocs\apirest-dinamica\routes\routes.php on line 30
+[22-Mar-2023 20:17:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:17:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:18 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:19:44 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 6
+[22-Mar-2023 20:21:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:21:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:21:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:21:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:22:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:22:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:22:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:22:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:22:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function GetController() in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php:7
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#3 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:23:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "getData", expecting variable or "$" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 8
+[22-Mar-2023 20:24:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function GetController() in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php:7
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#3 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:25:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:25:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:25:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "::" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:25:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function GetController() in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php:7
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#2 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#3 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 7
+[22-Mar-2023 20:28:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "stmt" in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:15
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(8): GetModel::getData('items')
+#1 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(7): GetController::getData('items')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#5 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 15
+[22-Mar-2023 20:28:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Undefined constant "FETCH_CLASS" in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:18
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(8): GetModel::getData('items')
+#1 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(7): GetController::getData('items')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#3 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#5 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 18
+[22-Mar-2023 20:37:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "fncResponse", expecting variable or "$" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 9
+[22-Mar-2023 20:39:21 Europe/Berlin] PHP Parse error:  syntax error, unexpected identifier "fncResponse", expecting variable or "$" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 9
+[22-Mar-2023 20:41:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$response" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 9
+[22-Mar-2023 20:41:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 21
+[22-Mar-2023 20:42:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "else", expecting "function" or "const" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 26
+[22-Mar-2023 20:42:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "else", expecting "function" or "const" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 26
+[22-Mar-2023 20:42:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "else", expecting "function" or "const" in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 26
+[22-Mar-2023 20:44:30 Europe/Berlin] PHP Warning:  Array to string conversion in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 16
+[22-Mar-2023 21:42:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 7
+[22-Mar-2023 21:43:19 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 7
+[22-Mar-2023 21:43:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 7
+[22-Mar-2023 21:43:34 Europe/Berlin] PHP Warning:  Undefined variable $select in F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php on line 9
+[22-Mar-2023 21:43:34 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM items' at line 1 in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:15
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(15): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('items', NULL)
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(11): GetController::getData('items', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 15
+[22-Mar-2023 22:06:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "}" in F:\xampp\htdocs\apirest-dinamica\routes\services\get.php on line 17
+[29-Mar-2023 12:02:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[03-Apr-2023 21:11:04 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[03-Apr-2023 21:11:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:49:41 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:49:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'basedeprueba.wordpress' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('wordpress', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('wordpress', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:49:48 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:50:00 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'basedeprueba.dashboard' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('dashboard', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('dashboard', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:50:00 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:50:12 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:53:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'basedeprueba.wordpress' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('wordpress', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('wordpress', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:53:56 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:56:46 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:57:15 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
+[04-Apr-2023 19:57:22 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'favicon.ico' doesn't exist in F:\xampp\htdocs\apirest-dinamica\models\get.model.php:22
+Stack trace:
+#0 F:\xampp\htdocs\apirest-dinamica\models\get.model.php(22): PDOStatement->execute()
+#1 F:\xampp\htdocs\apirest-dinamica\controllers\get.controller.php(9): GetModel::getData('favicon.ico', '*')
+#2 F:\xampp\htdocs\apirest-dinamica\routes\services\get.php(19): GetController::getData('favicon.ico', '*')
+#3 F:\xampp\htdocs\apirest-dinamica\routes\routes.php(30): include('F:\\xampp\\htdocs...')
+#4 F:\xampp\htdocs\apirest-dinamica\controllers\routes.controller.php(6): include('F:\\xampp\\htdocs...')
+#5 F:\xampp\htdocs\apirest-dinamica\index.php(23): RoutesController->index()
+#6 {main}
+  thrown in F:\xampp\htdocs\apirest-dinamica\models\get.model.php on line 22
